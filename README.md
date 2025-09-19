@@ -6,6 +6,6 @@ I'm an **aspiring embedded systems** with a strong foundation in electronics and
 - 👯 I’m looking to collaborate on embedded systems projects involving IoT or robotics.
 - 🤔 I’m looking for help with finding opportunities to apply my skills in a professional setting.
 - 💬 Ask me about my experience programming the **ESP32**, competitive programming, or my projects involving signal analysis in **Python**.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rohit373/) or send an email to **rohit.e2023@vitstudent.ac.in**.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rohit373/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a **3-star coder** on CodeChef and was a finalist at the Shaastra Programming Contest at **IIT Madras**.
