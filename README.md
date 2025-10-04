@@ -8,4 +8,4 @@ I'm an **aspiring embedded systems** with a strong foundation in electronics and
 - 💬 Ask me about my experience programming the **ESP32**, competitive programming, or my projects involving signal analysis in **Python**.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rohit373/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a **3-star coder** on CodeChef and was a finalist at the Shaastra Programming Contest at **IIT Madras**.
+- ⚡ Fun fact: I was a finalist at the Shaastra Programming Contest at **IIT Madras**.
